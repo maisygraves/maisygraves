@@ -3,6 +3,8 @@
 
 I believe that well-stewarded data gives people the tools they need to understand the systems around them so they can advocate for themselves.
 
+---
+
 I aim to empower people through data by:
 - Asking the right questions
 - Translating complex information into accurate and meaningful stories
@@ -14,6 +16,7 @@ I aim to empower people through data by:
 - finishing my M.S. in Data Analytics
 - figuring out what my "personal brand" is
 
+---
 
 *My background and skills on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
 *My current projects and portfolio of work are here on [GitHub](https://github.com/maisygraves)*</br>
