@@ -3,7 +3,7 @@
 
 ---
 
-# Hi, I’m Maisy Graves
+# Hi, I’m Maisy Graves <sub>pronouns she/her</sub>
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
@@ -15,4 +15,4 @@
 - [LinkedIn](www.linkedin.com/in/maigraves)
 - [GitHub](https://github.com/maisygraves)
 - [Bluesky](https://bsky.app/profile/nuptia4.bsky.social)
-<sub>pronouns she/her</sub>
+
