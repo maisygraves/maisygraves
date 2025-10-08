@@ -1,5 +1,5 @@
 >"To claim absolute knowledge is to become monstrous. Knowledge is an unending adventure at the edge of uncertainty"
->*Frank Herbert, Children of Dune*
+</br>*Frank Herbert, Children of Dune*
 
 ---
 
