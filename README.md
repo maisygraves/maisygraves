@@ -11,6 +11,6 @@
   
 ---
 
-*Check out my background and skills on [LinkedIn](www.linkedin.com/in/maigraves)*
-*Check out my current projects and portfolio of work on [GitHub](https://github.com/maisygraves)*
+*Check out my background and skills on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
+*Check out my current projects and portfolio of work on [GitHub](https://github.com/maisygraves)*</br>
 *I use my [Bluesky](https://bsky.app/profile/nuptia4.bsky.social) like a blog*
