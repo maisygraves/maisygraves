@@ -15,9 +15,9 @@ providing insights that support informed, impactful decisions and bringing compl
 
 ---
 
-*My background and skills on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
+*My background and skills are on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
 *My current projects and portfolio of work are here on [GitHub](https://github.com/maisygraves)*</br>
-*My [Bluesky](https://bsky.app/profile/thehucondish.bsky.social) is like a blog*
+*I use my [Bluesky](https://bsky.app/profile/thehucondish.bsky.social) like a blog*
 
 ---
 
