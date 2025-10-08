@@ -3,7 +3,7 @@
 
 ---
 
-# Hi, I’m Maisy Graves <sub>pronouns she/her</sub>
+# Hi, I’m Maisy Graves <sub>(she/her)</sub>
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
