@@ -7,10 +7,10 @@
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
-- building my portfolio website
+- building a personal brand
   
 ---
 
 *Check out my background and skills on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
 *Check out my current projects and portfolio of work on [GitHub](https://github.com/maisygraves)*</br>
-*I use my [Bluesky](https://bsky.app/profile/nuptia4.bsky.social) like a blog*
+*I use my [Bluesky](https://bsky.app/profile/thehucondish.bsky.social) like a blog*
