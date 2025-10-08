@@ -5,11 +5,8 @@ I believe that well-stewarded data gives people the tools they need to understan
 
 ---
 
-I aim to empower people through data by:
-- Asking the right questions
-- Translating complex information into accurate and meaningful stories
-- Providing insights that support informed, impactful decisions
-- Bringing complexity and nuance to light
+I aim to empower people through data  by asking the right questions, translating complex information into accurate and meaningful stories, 
+providing insights that support informed, impactful decisions and bringing complexity and nuance to light.
 
 
 **I'm working on...**  
