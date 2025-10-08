@@ -11,8 +11,6 @@
   
 ---
 
-### Connect with me on...
-- [LinkedIn](www.linkedin.com/in/maigraves)
-- [GitHub](https://github.com/maisygraves)
-- [Bluesky](https://bsky.app/profile/nuptia4.bsky.social)
-
+*Check out my background and skills on [LinkedIn](www.linkedin.com/in/maigraves)*
+*Check out my current projects and portfolio of work on [GitHub](https://github.com/maisygraves)*
+*I use my [Bluesky](https://bsky.app/profile/nuptia4.bsky.social) like a blog*
