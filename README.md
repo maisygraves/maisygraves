@@ -3,7 +3,7 @@
 
 ---
 
-#### Hi, I’m Maisy Graves <sub>(she/her)</sub>
+### Hi, I’m Maisy Graves <sub>(she/her)</sub>
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
@@ -11,7 +11,7 @@
   
 ---
 
-#### Connect with me on...
+### Connect with me on...
 - [LinkedIn](www.linkedin.com/in/maigraves)
 - [GitHub](https://github.com/maisygraves)
 - [Bluesky](https://bsky.app/profile/nuptia4.bsky.social)
