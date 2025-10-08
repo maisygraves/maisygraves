@@ -5,13 +5,14 @@ I believe that well-stewarded data gives people the tools they need to understan
 
 ---
 
-I aim to empower people through data  by asking the right questions, translating complex information into accurate and meaningful stories, 
-providing insights that support informed, impactful decisions and bringing complexity and nuance to light.
+I aim to empower people through data  by translating complex information into accurate and meaningful stories, providing insights that support 
+informed, impactful decisions and bringing complexity and nuance to light. I'm especially interested in bridging disciplines — using data, ethics, 
+and clear argumentation to bring complex, fragmented problems into sharper focus. I believe that better thinking comes from better questions, not 
+tighter silos.
 
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
-- figuring out what my "personal brand" is
 
 ---
 
