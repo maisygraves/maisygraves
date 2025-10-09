@@ -13,6 +13,7 @@ tighter silos.
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
+- figuring out what the "grammar of graphics" is
 
 ---
 
