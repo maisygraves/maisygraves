@@ -13,7 +13,8 @@ tighter silos.
 
 **I'm working on...**  
 - finishing my M.S. in Data Analytics
-- figuring out what the "grammar of graphics" is
+- [info5940 online course material](https://info5940.infosci.cornell.edu/) by Professor Soltoff at Cornell
+- historical data series using the [HistData package](https://info5940.infosci.cornell.edu/) in R
 
 ---
 
