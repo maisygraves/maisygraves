@@ -20,7 +20,7 @@ tighter silos.
 
 *My background and skills are on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
 *My current projects and portfolio of work are here on [GitHub](https://github.com/maisygraves)*</br>
-*I use my [Bluesky](https://bsky.app/profile/thehucondish.bsky.social) like a blog*
+*I use my [Bluesky](https://bsky.app/profile/missmeeseeks.bsky.social) like a blog*
 
 ---
 
