@@ -12,7 +12,9 @@ tighter silos.
 
 
 **I'm working on...**  
+
 finishing my M.S. in Data Analytics </br>
+
 improving my workflow for reproducible research
 - [info5940 online course material](https://info5940.infosci.cornell.edu/) by Professor Soltoff at Cornell
 - [R4DS R Markdown](https://r4ds.had.co.nz/r-markdown-workflow.html)
