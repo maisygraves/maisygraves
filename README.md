@@ -12,14 +12,14 @@ tighter silos.
 
 
 **I'm working on...**  
-finishing my M.S. in Data Analytics
+finishing my M.S. in Data Analytics </br>
 improving my workflow for reproducible research
 - [info5940 online course material](https://info5940.infosci.cornell.edu/) by Professor Soltoff at Cornell
 - [R4DS R Markdown](https://r4ds.had.co.nz/r-markdown-workflow.html)
 - [Handson Programming with R](https://rstudio-education.github.io/hopr/index.html)
 - [file organization](https://datacarpentry.github.io/rr-organization1/01-file-naming/index.html)
 - [R Project and here package](https://www.youtube.com/watch?v=rpWkQviMYIA)
-- [R markdown website](https://rmarkdown.rstudio.com/)
+- [R markdown website](https://rmarkdown.rstudio.com/)  </br>
 historical data series using the [HistData package](https://info5940.infosci.cornell.edu/) in R
 
 ---
