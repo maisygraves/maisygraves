@@ -20,6 +20,7 @@ improving my workflow for reproducible research
 - [file organization](https://datacarpentry.github.io/rr-organization1/01-file-naming/index.html)
 - [R Project and here package](https://www.youtube.com/watch?v=rpWkQviMYIA)
 - [R markdown website](https://rmarkdown.rstudio.com/)  </br>
+
 historical data series using the [HistData package](https://info5940.infosci.cornell.edu/) in R
 
 ---
