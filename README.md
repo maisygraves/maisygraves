@@ -13,9 +13,9 @@ tighter silos.
 
 **I'm working on...**  
 
-finishing my M.S. in Data Analytics </br>
+...finishing my M.S. in Data Analytics </br>
 
-improving my workflow for reproducible research
+...improving my workflow for reproducible research
 - [info5940 online course material](https://info5940.infosci.cornell.edu/) by Professor Soltoff at Cornell
 - [R4DS R Markdown](https://r4ds.had.co.nz/r-markdown-workflow.html)
 - [Handson Programming with R](https://rstudio-education.github.io/hopr/index.html)
@@ -23,13 +23,13 @@ improving my workflow for reproducible research
 - [R Project and here package](https://www.youtube.com/watch?v=rpWkQviMYIA)
 - [R markdown website](https://rmarkdown.rstudio.com/)  </br>
 
-historical data series using the [HistData package](https://info5940.infosci.cornell.edu/) in R
+...historical data series using the [HistData package](https://info5940.infosci.cornell.edu/) in R
 
 ---
 
 *My background and skills are on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
 *My current projects and portfolio of work are here on [GitHub](https://github.com/maisygraves)*</br>
-*I use my [Bluesky](https://bsky.app/profile/missmeeseeks.bsky.social) like a blog*
+*I use my [Bluesky](https://bsky.app/profile/mtropy.bsky.social) like a blog*
 
 ---
 
