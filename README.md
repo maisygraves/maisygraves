@@ -11,7 +11,7 @@ I think that well-stewarded data gives people the tools they need to understand 
 
 **I'm working on...**  
 
-...looking for a [job](www.linkedin.com/in/maigraves) 
+...looking for a [job](https://www.linkedin.com/in/maigraves) 
 
 ...reflecting on my MSc program in Data Analytics and uploading the following projects to a *private* repo </br>
 *course work is rooted in the [CRISP-DM Framework](https://mineracaodedados.wordpress.com/wp-content/uploads/2012/04/the-crisp-dm-model-the-new-blueprint-for-data-mining-shearer-colin.pdf)*
@@ -30,7 +30,7 @@ I think that well-stewarded data gives people the tools they need to understand 
   
 ---
 
-*My background and skills are on [LinkedIn](www.linkedin.com/in/maigraves)*</br>
+*My background and skills are on [LinkedIn](https://www.linkedin.com/in/maigraves)*</br>
 *My current projects and portfolio of work are here on [GitHub](https://github.com/maisygraves)*</br>
 *Sometimes I post on [Bluesky](https://bsky.app/profile/mtropy.bsky.social)*
 
