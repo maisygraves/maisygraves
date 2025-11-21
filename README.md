@@ -14,19 +14,14 @@ I think that well-stewarded data gives people the tools they need to understand 
 ...looking for a [job](https://www.linkedin.com/in/maigraves) 
 
 ...reflecting on my MSc program in Data Analytics and uploading the following projects to a *private* repo </br>
-*course work is rooted in the [CRISP-DM Framework](https://mineracaodedados.wordpress.com/wp-content/uploads/2012/04/the-crisp-dm-model-the-new-blueprint-for-data-mining-shearer-colin.pdf)*
-- EDM architecture and implementation plan based on the DAMA-DMBOK framework
-- Decision analysis report for a university's job placement team using a CART algorithm
-- Random Forest algorithm for improving a P&C insurance company's marketing campaign
-- NOAA data visualizations in PowerBI for an emergency management agency
+- Decision analysis report for the job placement team at JAIN University (CART)
+- Data-driven marketing optimization for a P&C insurance company (Random Forest)
 - Risk analysis model (PRIDIT analysis) that evolves the operational risk management program for a P&C insurance company
-- Reflective essay about learning SQL in Postgres
+- Reflective essay about learning SQL
 - Credit risk prediction pilot for a credit branch (Random Forest and logistic regression)
 - HR ERP system proposal (Oracle Fusion Cloud HCM) for a global manufacturing company
 - Capstone: Data-Driven Loan Funding for a credit union (Random Forest feature selection, multiple linear regression algorithm)
-
-...continuing skill development in data management & statistics
-- stay tuned as I work through these [portfolio projects](https://www.youtube.com/watch?v=QlbyGPVaRSE)
+<sub>if you'd like to see any of these projects, contact me</sub>
   
 ---
 
