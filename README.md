@@ -21,7 +21,10 @@ I think that well-stewarded data gives people the tools they need to understand 
 - Credit risk prediction pilot for a credit branch (Random Forest and logistic regression)
 - HR ERP system proposal (Oracle Fusion Cloud HCM) for a global manufacturing company
 - Capstone: Data-Driven Loan Funding for a credit union (Random Forest feature selection, multiple linear regression algorithm) </br>
-<sub>if you'd like to see any of these projects, contact me</sub>
+<sub>if you'd like to see any of these projects, contact me</sub> </br>
+
+...fleshing out my Python knowledge
+- Guttag, J. (2021). *Introduction to Computation and Programming Using Python*. The MIT Press.
   
 ---
 
