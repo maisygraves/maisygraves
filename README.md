@@ -30,7 +30,8 @@ I think that well-stewarded data gives people the tools they need to understand 
 
 ...learning best practices for file organization (so that I'm fun to work with)
 - https://mitcommlab.mit.edu/broad/commkit/file-structure/
-- https://cduvallet.github.io/phdchat-philosophies/ 
+- https://cduvallet.github.io/phdchat-philosophies/
+- makefiles
   
 ---
 
