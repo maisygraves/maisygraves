@@ -29,7 +29,8 @@ I think that well-stewarded data gives people the tools they need to understand 
 - the [requests](https://requests.readthedocs.io/en/latest) package ([de facto industry standard](https://www.datacamp.com/tutorial/making-http-requests-in-python))
 
 ...learning best practices for file organization (so that I'm fun to work with)
-- https://mitcommlab.mit.edu/broad/commkit/file-structure/ 
+- https://mitcommlab.mit.edu/broad/commkit/file-structure/
+- https://cduvallet.github.io/phdchat-philosophies/ 
   
 ---
 
