@@ -26,6 +26,7 @@ I think that well-stewarded data gives people the tools they need to understand 
 ...fleshing out my Python knowledge
 - Guttag, J. (2021). *Introduction to Computation and Programming Using Python*. The MIT Press.
 - working with API's and JSON data
+- the [requests](https://requests.readthedocs.io/en/latest) package
 
 ...learning best practices for file organization (so that I'm fun to work with)
 - https://mitcommlab.mit.edu/broad/commkit/file-structure/ 
